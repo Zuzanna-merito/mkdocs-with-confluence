@@ -52,4 +52,4 @@ Use following config and adjust it according to your needs:
 ## Additional contributors:
 rbor-merito
 Quinctilli-Merito-100241
-pawel-sikora-merito
+pawel-sikora-merito\n## Additional contributors:\n<Zuzanna-Merito>
